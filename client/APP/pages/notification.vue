@@ -1,7 +1,7 @@
 <template>
   <div class="lg:pl-70 py-10">
     <div class="w-full bg-[#1c2741] h-1/2 border border-[#2b324b] text-gray-300 rounded-lg p-4">
-      <!-- <transition-group name="fade" tag="div">
+      <transition-group name="fade" tag="div">
         <div
           v-for="(item, index) in notifBoxs"
           :key="item.text"
@@ -13,7 +13,7 @@
             <icons-x-icon />
           </div>
         </div>
-      </transition-group> -->
+      </transition-group>
     </div>
 
     <div class="w-full mt-5 bg-[#1c2741] h-1/2 border border-[#2b324b] grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5 text-gray-300 rounded-lg p-4">
