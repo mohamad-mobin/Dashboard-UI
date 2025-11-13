@@ -1,10 +1,7 @@
 <template>
 
     <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea provident ab quos odio similique maxime minima aliquam? Laudantium sed dicta nostrum praesentium illum sequi voluptatibus non, esse, rem fugit eligendi?
-
-
-        this is test
+        test for testing blyad
     </div>
   <div class="lg:pl-70 pt-20 text-white">
         <!-- Dashboard Metrics -->
