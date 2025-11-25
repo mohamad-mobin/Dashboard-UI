@@ -1,0 +1,24 @@
+[33m89847ad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: remove comments
+[33m3af2e7d[m HEAD@{1}: commit: test
+[33m4b4b9f7[m HEAD@{2}: commit: add isMenuOpen to signin Page
+[33m5d4eb74[m HEAD@{3}: commit: remove setting icon
+[33mc832bbd[m HEAD@{4}: commit: notification page finished
+[33mf11b5f6[m HEAD@{5}: commit: remove setting tab
+[33me486d43[m HEAD@{6}: commit: profile page finished
+[33md5dd855[m HEAD@{7}: commit: change type of input
+[33m80f0df4[m HEAD@{8}: commit: change type on input
+[33m069ceb5[m HEAD@{9}: commit: add profile page
+[33m6bd2877[m HEAD@{10}: commit: remove red box
+[33mb757202[m HEAD@{11}: commit: add a red box for testing
+[33m56f6e69[m HEAD@{12}: pull: Fast-forward
+[33m449e268[m HEAD@{13}: commit: add readme file
+[33mb4b00db[m HEAD@{14}: commit: change styles of signIn & signUp pages
+[33m3213965[m HEAD@{15}: commit: changin some a tags to nuxtlink
+[33m65704ac[m HEAD@{16}: commit: signUp page finished
+[33m71a578b[m HEAD@{17}: commit: signIn page finished
+[33m1261126[m HEAD@{18}: commit: dashboard page finished
+[33md28f653[m HEAD@{19}: commit: next update
+[33mbeac8e3[m HEAD@{20}: commit: adding charts
+[33m0ed8312[m HEAD@{21}: commit: update
+[33mb33cccc[m HEAD@{22}: Branch: renamed refs/heads/master to refs/heads/main
+[33mb33cccc[m HEAD@{24}: commit (initial): Initial commit

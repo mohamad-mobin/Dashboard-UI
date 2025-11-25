@@ -1,4 +1,8 @@
 <template>
+
+    <div>
+        test for testing blyad
+    </div>
   <div class="lg:pl-70 pt-20 text-white">
         <!-- Dashboard Metrics -->
         <div class="w-full justify-between gap-10 lg:gap-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 mb-7">
@@ -463,4 +467,5 @@ let test = () => {
         dotMenu.value.classList.replace('scale-100','scale-0')
     }
 }
+
 </script>
